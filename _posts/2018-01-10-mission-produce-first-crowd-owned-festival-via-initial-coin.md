@@ -5,8 +5,8 @@ description: >-
   Token (“10ve”) serves as both a utility token for online, in-app, and
   Festival-site service sales, plus serves as a proof-of-stake token for its
   holders’ participation in the management of the ecosystem.
-dateModified: '2018-01-29T21:22:54.757Z'
-datePublished: '2018-01-29T21:22:55.621Z'
+dateModified: '2018-01-29T21:23:52.687Z'
+datePublished: '2018-01-29T21:23:53.271Z'
 title: One Love Eco - Tokenizing The Experience
 author: []
 publisher: {}
@@ -184,6 +184,7 @@ M is the total nominal amount of[money][8] in circulation on average in the econ
 Thus PT is the total nominal amount of transactions per block period.
 
 Values of P T and M permit calculation of VT.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b697786-4a6e-4b2e-a3d2-adbcb9395cbb.png)
 
 ## One Love Token Fundraise
 
@@ -209,8 +210,9 @@ An Ethereum smart contract proves the receipt of incoming value for the creation
 4. Eliminates unfair advantages associated with economies of scale
 
 **Strategic Fit**  
-_Internet of Money is causing significant disruption in almost every known industry, especially central banking. This may be one reason why the ecosystem is struggling to connect with the majority of people who stand to benefit the most.  
-What better partnership for the entire crypto-economy than with the film, art, music, which have all proven the ability to spark social change._
+_Internet of Money is causing significant disruption in almost every known industry, especially central banking. This may be one reason why the ecosystem is struggling to connect with the majority of people who stand to benefit the most._
+
+_What better partnership for the entire crypto-economy than with the film, art, music, which have all proven the ability to spark social change._
 
 [0]: https://www.bancor.network/
 [1]: https://t.me/onelovefestival
