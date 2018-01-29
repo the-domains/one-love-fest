@@ -1,0 +1,96 @@
+typography_spectrum: 0.37534987541625625
+color:
+  brandStrength: 0.23333075647675755
+  lightness: 0.33920354649608975
+  saturation: 0.3098885002287824
+  rhythmicContrast: 0.49557926822324644
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.42538674332339793
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8e57b8d-c4dc-48ef-a4ed-c107f5c572e5.png
+name: ' '
+url: 'http://onelove.eco'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Proof-of-Fan
+    id: ae8d2074-ee80-4e50-975a-32d1b4f0e340
+    type: content
+  - name: Governance
+    id: 5e8cedd6-a83d-43b9-bee1-4c759d506476
+    type: content
+  - name: Network Partners
+    id: c8e5103d-81ab-46d7-b1e0-30ab510e10b4
+    type: content
+  - name: 'Initial Token Offering [ITO]'
+    id: cbc76429-9059-4d82-b491-9ac468bad06d
+    type: content
+  - name: Main Festival Site
+    url: 'http://onelovefest.com'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/451015c8-c20c-4fee-bf42-198f84fa0229.svg
+title: One Love Fest ICO
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4a7dd1-875c-448d-acf4-5bbda6ac6749.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd4a7dd1-875c-448d-acf4-5bbda6ac6749.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc0d23a2-e062-4a32-94a1-f7bbb859a1d1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc0d23a2-e062-4a32-94a1-f7bbb859a1d1.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  Re-contextualizing Technologies for Funding, Governing and Operating One Love
+  Fest
+github: true
