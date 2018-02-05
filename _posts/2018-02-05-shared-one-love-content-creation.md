@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-05T23:06:07.353Z'
-datePublished: '2018-02-05T23:06:07.814Z'
+dateModified: '2018-02-05T23:07:16.273Z'
+datePublished: '2018-02-05T23:07:17.018Z'
 title: One Love Content Co-Creation
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-02-05-shared-one-love-content-creation.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-02-05T23:05:33.200Z'
-_type: Blurb
+url: one-love-content-co-creation/index.html
+_type: Article
 
 ---
 # One Love Content Co-Creation
