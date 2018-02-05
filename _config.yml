@@ -10,6 +10,7 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+github: true
 layout_spectrum: 0.42538674332339793
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8e57b8d-c4dc-48ef-a4ed-c107f5c572e5.png
@@ -38,6 +39,9 @@ navigation:
   - name: Main Festival Site
     url: 'http://onelovefest.com'
     type: external
+  - name: Content Co-Creation
+    id: 38a3b90f-4e3e-4e68-8ed3-e9ce075404e9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/451015c8-c20c-4fee-bf42-198f84fa0229.svg
 title: One Love Fest ICO
@@ -93,4 +97,3 @@ content:
 description: >-
   Re-contextualizing Technologies for Funding, Governing and Operating One Love
   Fest
-github: true
