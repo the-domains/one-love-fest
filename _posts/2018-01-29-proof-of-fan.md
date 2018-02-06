@@ -7,8 +7,8 @@ description: >-
   developing a voting bot that will welcome new users to the group and show them
   how to vote right in the telegram group on who they want to see at the 2018
   One Love Fest.
-dateModified: '2018-01-30T03:03:39.301Z'
-datePublished: '2018-01-30T03:03:39.933Z'
+dateModified: '2018-02-06T19:56:38.539Z'
+datePublished: '2018-02-06T19:56:39.206Z'
 title: Proof of Fan
 author: []
 publisher: {}
@@ -37,7 +37,12 @@ This helps the organizers of the festival focus their resources towards building
 5. [Tale Of Us][5]
 6. [Maceo Plex][6]
 7. [TEMPI][7]
-[Join One Love Fest Telegram][8]
+8. Outersect
+9. [Scott Nice][8]
+10. [Friend][9]
+11. [Madame Gandhi][10]
+12. [Grouch in Dub][11]
+[Join One Love Fest Telegram][12]
 
 ---
 
@@ -51,4 +56,8 @@ This helps the organizers of the festival focus their resources towards building
 [5]: https://www.facebook.com/TaleOfUs/ "Click to view their facebook"
 [6]: https://www.facebook.com/MaceoPlex/ "Click to view their facebook page"
 [7]: https://www.facebook.com/tempimusic "Click to view TEMPI facebook"
-[8]: https://t.me/onelovefestival
+[8]: https://www.youtube.com/playlist?list=PL6khfg3nGvffG7Pm5T-bFTxND_zIbKCDS&feature=gws_kp_artist&app=desktop "Collection of Tracks"
+[9]: https://soundcloud.com/friend_music/catharsis311 "Collection of Music"
+[10]: https://soundcloud.com/madamegandhi/sets/voices "posted by fan"
+[11]: https://soundcloud.com/grouchnz/grouch-soul-provider-full "posted by telegram group fan"
+[12]: https://t.me/onelovefestival
