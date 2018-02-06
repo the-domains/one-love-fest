@@ -36,9 +36,6 @@ navigation:
   - name: 'Initial Token Offering [ITO]'
     id: cbc76429-9059-4d82-b491-9ac468bad06d
     type: content
-  - name: Content Co-Creation
-    id: 38a3b90f-4e3e-4e68-8ed3-e9ce075404e9
-    type: content
   - name: Main Festival Site
     url: 'http://onelovefest.com'
     type: external
