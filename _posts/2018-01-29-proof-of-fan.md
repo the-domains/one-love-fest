@@ -7,8 +7,8 @@ description: >-
   developing a voting bot that will welcome new users to the group and show them
   how to vote right in the telegram group on who they want to see at the 2018
   One Love Fest.
-dateModified: '2018-02-09T13:17:05.723Z'
-datePublished: '2018-02-09T13:17:06.300Z'
+dateModified: '2018-02-09T14:11:23.665Z'
+datePublished: '2018-02-09T14:11:24.646Z'
 title: Proof of Fan
 author: []
 publisher: {}
@@ -46,7 +46,8 @@ This helps the organizers of the festival focus their resources towards building
 14. [Grouch in Dub][14]
 15. [Frameworks][15]
 16. [TroyBoi][16]
-[Join One Love Fest Telegram][17]
+17. [TV on the radio][17]
+[Join One Love Fest Telegram][18]
 
 ---
 
@@ -69,4 +70,5 @@ This helps the organizers of the festival focus their resources towards building
 [14]: https://soundcloud.com/grouchnz/grouch-soul-provider-full "posted by telegram group fan"
 [15]: https://frameworksuk.bandcamp.com/ "Official Artist Site"
 [16]: https://soundcloud.com/troyboi "Click to listen to artist music"
-[17]: https://t.me/onelovefestival
+[17]: http://www.tvontheradio.com/ "Official Artist Site"
+[18]: https://t.me/onelovefestival
