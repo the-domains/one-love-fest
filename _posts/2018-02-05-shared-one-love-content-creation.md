@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-07T16:26:37.906Z'
-datePublished: '2018-02-07T16:26:38.736Z'
+dateModified: '2018-02-09T20:05:13.828Z'
+datePublished: '2018-02-09T20:05:14.632Z'
 title: One Love Content Co-Creation
 author: []
 publisher: {}
@@ -24,8 +24,10 @@ _type: Article
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fa966bfc4247e37fa63cbb988344e3c039df76a.jpg" /><h1>Lets Talk Bitcoin: Technology &amp; Choice #26, Reconnection - Ken Schwenker and the One Love Festival - Steemit</h1><p>Thank you John Ferguson for all you are doing to help our One Love Fest November 2-4th 2018 being the first full... by onelove-eco</p></article>
 
-<article style=""><img src="https://steemitimages.com/DQmQTPFdktAmJwWJq8LPgFfdR76qusG1LxLd7RYpcahYTAL/377A4344.jpg" /><h1>Let's Talk Bitcoin - Technology &amp; Choice #27, Lucien Vattel on the I AM Tech Stack - Steemit</h1><p>"I Am" is a technology stack that is evolving to incorporate high tech, to aide a process of personal and social improvement and connection. Our guest, Lucien Vattel, has years of experience in developing technologies to assist in learning and general education.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1113030d3617c8afa1b0e6eef992b9d6/noop?input=https%3A%2F%2Fsteemit-production-imageproxy-upload.s3.amazonaws.com%2FDQmQTPFdktAmJwWJq8LPgFfdR76qusG1LxLd7RYpcahYTAL" /><h1>Let's Talk Bitcoin - Technology &amp; Choice #27, Lucien Vattel on the I AM Tech Stack - Steemit</h1><p>"I Am" is a technology stack that is evolving to incorporate high tech, to aide a process of personal and social improvement and connection. Our guest, Lucien Vattel, has years of experience in developing technologies to assist in learning and general education.</p></article>
 
 ### Articles & Blogs
+
+<article style=""><img src="https://steemitimages.com/DQmZzTBqLb5UMuWuqpi9yf51MSeKd58TgmNMwUb7iss3Wm1/bitgowallets.png" /><h1>YES! WE ARE THE FIRST FULLY FUNDED AND OPERATING FESTIVAL IN THE WORLD WITH CRYPTO - Steemit</h1><p>YES! WE ARE THE FIRST FULLY FUNDED AND OPERATING FESTIVAL IN THE WORLD WITH CRYPTO When One Love Fest says it will be the first festival in the world to run fully on crypto we really mean it.</p></article>
 
 ### Marketing Material
